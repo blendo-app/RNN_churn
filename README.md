@@ -8,4 +8,5 @@ You can find the whole analysis here:
 
 ## Usage
 The project was implemented in Python 3.6 and keras 2.0.2
+
 Load an appropriately formatted csv and run the code
